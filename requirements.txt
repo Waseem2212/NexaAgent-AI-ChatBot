@@ -1,0 +1,15 @@
+langchain==1.2.8
+langchain-community==0.4.1
+langchain-core==1.2.8
+langchain-groq==1.1.2
+tavily-python==0.7.21
+fastapi==0.128.0
+uvicorn==0.40.0
+python-dotenv==1.2.1
+streamlit==1.54.0
+requests==2.32.3
+langgraph==1.0.7
+sympy==1.13.1
+langgraph-checkpoint-sqlite==3.0.3
+ddgs==9.10.0
+duckduckgo-search==8.1.1
